@@ -14,3 +14,15 @@ This is where I document and share everything I learn as I embark on my explorat
 * /code : Practical code snippets and scripts for different cybersecurity tasks.
 * /resources : A collection of useful resources and references.
 * /papers : The papers I wrote for this topic all in pdf format ready to be read and modified if it is needed.
+
+# Getting Started
+If you’re new to cyber security -like me, you might find it helpful to start with some basic concepts. I recommend checking out the notes folder to find introductory materials. As I continue to learn, I will be updating this repository with new content and improvements.
+
+# Contributing
+This repository is a project that I get help from my mentor and I also welcome contributions from others who might have valuable insights or resources to share. If you have suggestions or improvements, please feel free to submit a pull request.
+
+# Updates
+If you have any questions or feedback, feel free to reach out to me at [ahsenbeyzaozkul@gmail.com].
+
+### ***Thank you for visiting my Cyber Security Journey repository!***
+
