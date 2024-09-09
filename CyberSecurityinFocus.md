@@ -1,5 +1,4 @@
-# Artificial Intelligence in Cyber Defense: 
-### A Review of Current Applications and Technologies
+# Cyber Security in Focus: From Core Principles to Global Strategies
 ###### _Ahsen Beyza Özkul_
 <ahsenbeyzaozkul@gmail.com>
 
